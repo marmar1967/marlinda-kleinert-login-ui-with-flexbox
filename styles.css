@@ -1,0 +1,25 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main-area {
+    background-color: violet;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px 10px #8888;
+}
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    width: 100%;
+    padding: 6px;
+
+}
